@@ -41,7 +41,7 @@
 Note: Il codice è stato suddiviso in più file per poter essere maggiormente fruibile.
        Nella repository si trovano tutti i file utili che vengono caricati dal codice.
 ```
-! This is an info message.
-!v This is a success message.
-!! Consider this a warning.
-!x This is an error message.
+> ! This is an info message.
+> !v This is a success message.
+> !! Consider this a warning.
+> !x This is an error message.
