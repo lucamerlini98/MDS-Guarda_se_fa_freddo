@@ -41,3 +41,5 @@
 Note: Il codice è stato suddiviso in più file per poter essere maggiormente fruibile.
        Nella repository si trovano tutti i file utili che vengono caricati dal codice.
 ```
+> [!WARNING]
+> I file della cartella "Data" essendo di dimensioni troppo grandi per essere caricate, si rimanda al sequente indirizzo: .
