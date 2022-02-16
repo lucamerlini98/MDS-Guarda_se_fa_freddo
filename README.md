@@ -41,5 +41,7 @@
 Note: Il codice è stato suddiviso in più file per poter essere maggiormente fruibile.
        Nella repository si trovano tutti i file utili che vengono caricati dal codice.
 ```
-> [!WARNING]
-> I file della cartella "Data" essendo di dimensioni troppo grandi per essere caricate, si rimanda al sequente indirizzo: .
+! This is an info message.
+!v This is a success message.
+!! Consider this a warning.
+!x This is an error message.
