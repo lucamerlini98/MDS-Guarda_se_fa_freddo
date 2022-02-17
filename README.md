@@ -2,7 +2,7 @@
 
 > Paolo Masella, Luca Merlini, Gloria Tuccillo
 ***
-> Link per la presentazione: >a>https://www.canva.com/design/DAE4h6OzZgg/mL1Uy6oQRy1QKnVn8IKsWw/view?utm_content=DAE4h6OzZgg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink</a>
+> Link per la presentazione: <a>https://www.canva.com/design/DAE4h6OzZgg/mL1Uy6oQRy1QKnVn8IKsWw/view?utm_content=DAE4h6OzZgg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink</a>
 ***
  Il progetto è stato suddiviso in quattro parti principali:
 1. **<h3>Aggiornamento del dataset :battery:</h3>**
